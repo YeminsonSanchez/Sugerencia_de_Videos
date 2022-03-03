@@ -1,0 +1,16 @@
+body {
+  font-family: "Noto Sans JP", sans-serif;
+  height: auto;
+  background-image: url("https://images.pexels.com/photos/157542/pexels-photo-157542.jpeg?cs=srgb&dl=pexels-anthony-157542.jpg&fm=jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  color: aliceblue;
+}
+
+img {
+  width: 10%;
+}
+.card {
+  background-color: rgba(0, 0, 0, 0.685);
+}
